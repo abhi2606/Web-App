@@ -1,0 +1,5 @@
+[deploy]
+  type = "static"
+
+[build]
+  command = "npm run build"  # or "yarn build" if using yarn
